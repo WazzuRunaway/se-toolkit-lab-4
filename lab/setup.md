@@ -3,6 +3,8 @@
 - [Find a partner](#find-a-partner)
 - [Sign in on `GitHub`](#sign-in-on-github)
 - [Fork the course instructors' repo](#fork-the-course-instructors-repo)
+- [Go to your fork](#go-to-your-fork)
+- [Make your fork public](#make-your-fork-public)
 - [Enable issues](#enable-issues)
 - [Add a classmate as a collaborator](#add-a-classmate-as-a-collaborator)
 - [Protect your `main` branch](#protect-your-main-branch)
@@ -59,15 +61,21 @@
 
 ## Fork the course instructors' repo
 
-1. Create a `GitHub` account.
-2. Go to the course instructors' [repo](https://github.com/inno-se-toolkit/se-toolkit-lab-2) (repository).
-3. Fork this repo: follow the [instructions on forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
-4. Go to your fork (a partial copy of the instructors' repo stored on `GitHub`).
-5. The URL of your fork should be like `https://github.com/<your-username>/se-toolkit-lab-2`.
-6. If you don't see `Public` near your fork name, [make your fork public](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#changing-a-repositorys-visibility).
+1. Go to the course instructors' [repo](https://github.com/inno-se-toolkit/se-toolkit-lab-2).
+2. Fork the course instructors' repo:
+   1. Click `Fork`.
+   2. Click `Choose an owner`.
+   3. Click `<your-username>` to make you the repo owner.
+   4. Click `Create fork`.
 
-> [!NOTE]
-> Continue working in your fork.
+## Go to your fork
+
+1. Go to your fork (a partial copy of the instructors' repo stored on `GitHub`).
+2. The URL of your fork should be like `https://github.com/<your-username>/se-toolkit-lab-2`.
+
+## Make your fork public
+
+1. If you don't see `Public` near your fork name, [make your fork public](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#changing-a-repositorys-visibility).
 
 ## Enable issues
 
