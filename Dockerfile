@@ -5,7 +5,7 @@
 
 # First, build the application in the `/app` directory.
 # See `Dockerfile` for details.
-FROM astral/uv:python3.14-bookworm-slim AS builder
+FROM harbor.pg.innopolis.university/docker-hub-cache/astral/uv:python3.14-bookworm-slim AS builder
 ENV UV_COMPILE_BYTECODE=1 UV_LINK_MODE=copy
 
 # Omit development dependencies
